@@ -393,5 +393,14 @@
         "tags": ["v_1.1"],
         "description": "",
         "source_code": ""
+    },
+    {
+        "name": "ICal Stream Connector",
+        "url": "http://stainless.io/ics",
+        "author": "Russell Hay",
+        "github_username": "RussTheAerialist",
+        "tags": ["v_2.0"],
+        "description": "Connect to an ICal stream to use a calendar as a data source (most likely want to proxy using cors.io)",
+        "source_code": "https://github.com/RussTheAerialist/ical-wdc"
     }
 ]
